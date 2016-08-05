@@ -1,0 +1,11 @@
+{
+  "name": "basic-web-template",
+  "version": "1.0.0",
+  "description": "a starter web development directory structure for projects",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "usman-tahir",
+  "license": "ISC"
+}
